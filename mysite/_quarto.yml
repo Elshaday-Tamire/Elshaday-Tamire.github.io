@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Elsahday Yoseph"
+  title: "Elshaday Yoseph"
   navbar:
     left:
       - href: index.qmd

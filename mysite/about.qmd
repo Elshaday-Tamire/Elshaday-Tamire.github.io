@@ -1,4 +1,5 @@
 ---
 title: "About"
 ---
-This is me Elshaday the datascientist
+
+Elshaday Yoseph the datascientist

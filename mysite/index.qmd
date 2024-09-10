@@ -1,5 +1,5 @@
 ---
-title: "Elsahday Yoseph"
+title: "Elshaday Yoseph"
 ---
 
 This is a Quarto website.

@@ -1,5 +1,13 @@
 ---
-title: "About"
+title: "Elshaday Yoseph"
 ---
 
-Elshaday Yoseph the datascientist
+## About Me
+
+As a Graduate Data Science Student at UBC, I am deeply engaged in advancing my expertise in data analysis, machine learning, and technology-driven problem-solving. My academic journey is complemented by practical experience in technology leadership and software development.
+
+In my role as CEO and Co-Founder at Phinder Technologies PLC, I drive innovation by initiating and managing key projects and leading a talented team. I focus on creating impactful technology solutions and setting strategic direction to propel our company forward.
+
+Previously, I worked as a Software Engineer at Cooperative Bank of Oromia, where I developed robust banking software solutions using technologies like Spring Boot and Flutter, and managed DevOps processes and Linux environments. As a Freelance Software Engineer, I delivered customized software solutions and managed CI/CD pipelines, showcasing my versatility and technical expertise.
+
+My experience also includes developing websites and eCommerce plugins at Peeps Technologies PLC, where I enhanced user experiences and extended platform functionalities. With a background in diverse technologies and a passion for using data to drive decisions, I am dedicated to leveraging my skills to tackle complex challenges and deliver innovative solutions.

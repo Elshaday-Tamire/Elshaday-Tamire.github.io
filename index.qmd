@@ -2,6 +2,21 @@
 title: "Elshaday Yoseph"
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Welcome
+
+Welcome to my personal website! I'm Elshaday Yoseph, a Graduate Data Science Student at UBC with a strong focus on leveraging data to solve complex problems and drive innovation. My journey in technology and data science has been both diverse and enriching, spanning roles from software engineering to technology leadership.
+
+## What I Do
+
+Currently, I am the CEO and Co-Founder of Phinder Technologies PLC, where I lead a dynamic team in creating cutting-edge technology solutions. My role involves managing key projects and steering the strategic direction of our company to foster innovation and growth.
+
+Previously, I have honed my skills as a Software Engineer at Cooperative Bank of Oromia, developing banking software solutions and managing DevOps processes. I also have experience as a Freelance Software Engineer, where I provided tailored software solutions and managed CI/CD pipelines. My background includes developing websites and eCommerce plugins at Peeps Technologies PLC, enhancing user experiences and extending platform functionalities.
+
+## My Focus
+
+As I continue my studies at UBC, I am deeply engaged in data analysis, machine learning, and technology-driven problem-solving. My passion lies in using data to make informed decisions and create impactful solutions. Whether it's through my current projects or past experiences, I am dedicated to leveraging technology to address real-world challenges and drive positive change.
+
+Feel free to explore my website to learn more about my work, projects, and interests. Thank you for visiting!
+
+For more information about my professional background and projects, please visit the [About Me](#about-me) section.
